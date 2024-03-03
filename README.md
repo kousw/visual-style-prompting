@@ -47,20 +47,6 @@ python inference_sdxl.py --guidance_scale 7.0 --num_inference_steps 50 --referen
 
 Reference
 
-<img src="./sample/ref/ref1.png" width="200"/>
-
-Generated(cat)
-
-<img src="./sample/01/out_sdxl_0.png" width="200"/> <img src="./sample/01/out_sdxl_1.png" width="200"/> <img src="./sample/01/out_sdxl_2.png" width="200"/> <img src="./sample/01/out_sdxl_3.png" width="200"/> <img src="./sample/01/out_sdxl_4.png" width="200"/>
-
-
-Generated(motorcycle)
-
-<img src="./sample/02/out_sdxl_0.png" width="200"/> <img src="./sample/02/out_sdxl_1.png" width="200"/> <img src="./sample/02/out_sdxl_2.png" width="200"/> <img src="./sample/02/out_sdxl_3.png" width="200"/> <img src="./sample/02/out_sdxl_4.png" width="200"/>
-
-
-Reference
-
 <img src="./sample/ref/ref2.png" width="200"/>
 
 Generated(cat)
@@ -72,3 +58,15 @@ Generated(motorcycle)
 
 <img src="./sample/04/out_sdxl_0.png" width="200"/> <img src="./sample/04/out_sdxl_1.png" width="200"/> <img src="./sample/04/out_sdxl_2.png" width="200"/> <img src="./sample/04/out_sdxl_3.png" width="200"/> <img src="./sample/04/out_sdxl_4.png" width="200"/>
 
+Reference
+
+<img src="./sample/ref/ref1.png" width="200"/>
+
+Generated(cat)
+
+<img src="./sample/01/out_sdxl_0.png" width="200"/> <img src="./sample/01/out_sdxl_1.png" width="200"/> <img src="./sample/01/out_sdxl_2.png" width="200"/> <img src="./sample/01/out_sdxl_3.png" width="200"/> <img src="./sample/01/out_sdxl_4.png" width="200"/>
+
+
+Generated(motorcycle)
+
+<img src="./sample/02/out_sdxl_0.png" width="200"/> <img src="./sample/02/out_sdxl_1.png" width="200"/> <img src="./sample/02/out_sdxl_2.png" width="200"/> <img src="./sample/02/out_sdxl_3.png" width="200"/> <img src="./sample/02/out_sdxl_4.png" width="200"/>
