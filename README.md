@@ -51,12 +51,12 @@ Reference
 
 Generated(cat)
 
-<img src="./sample/03/out_sdxl_0.png" width="200"/> <img src="./sample/03/out_sdxl_1.png" width="200"/> <img src="./sample/03/out_sdxl_2.png" width="200"/> <img src="./sample/03/out_sdxl_3.png" width="200"/> <img src="./sample/03/out_sdxl_4.png" width="200"/>
+<img src="./sample/04/out_sdxl_0.png" width="200"/> <img src="./sample/04/out_sdxl_1.png" width="200"/> <img src="./sample/04/out_sdxl_2.png" width="200"/> <img src="./sample/04/out_sdxl_3.png" width="200"/> <img src="./sample/04/out_sdxl_4.png" width="200"/>
 
 
 Generated(motorcycle)
 
-<img src="./sample/04/out_sdxl_0.png" width="200"/> <img src="./sample/04/out_sdxl_1.png" width="200"/> <img src="./sample/04/out_sdxl_2.png" width="200"/> <img src="./sample/04/out_sdxl_3.png" width="200"/> <img src="./sample/04/out_sdxl_4.png" width="200"/>
+<img src="./sample/03/out_sdxl_0.png" width="200"/> <img src="./sample/03/out_sdxl_1.png" width="200"/> <img src="./sample/03/out_sdxl_2.png" width="200"/> <img src="./sample/03/out_sdxl_3.png" width="200"/> <img src="./sample/03/out_sdxl_4.png" width="200"/>
 
 Reference
 
