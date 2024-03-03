@@ -1,0 +1,17 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+
+.env
+# Virtual Environment
+.venv
+venv/
+
+/models/
+/output/
+/datasets/
+/wandb/
+/local/
